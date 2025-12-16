@@ -11,10 +11,7 @@ envs support, logging, etc.
 
 ---
 
-## Code is being refactored
-<p align="center">
-  <img src="https://i.pinimg.com/236x/6b/7a/f4/6b7af47cf6889a90ea178ed89c089a82.jpg" width="100"/>
-</p>
+## Hello 👋🏻
 
 ### Work in progress:
 1. Implement reusable Agent, Buffer, and Net files/classes ✅
@@ -170,24 +167,6 @@ With **Entropy Bonus** added (yellow graph), the results are as follows:
 * Almost 2× speed boost over 5000 episodes
 
 ![Algorithm Comparison](data/graph3.png)
-
----
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -am 'Add new feature'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Open a Pull Request
-
----
-
-### License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
