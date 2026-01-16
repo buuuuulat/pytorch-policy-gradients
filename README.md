@@ -11,20 +11,6 @@ envs support, logging, etc.
 
 ---
 
-## Hello 👋🏻
-
-### Work in progress:
-1. Implement reusable Agent, Buffer, and Net files/classes ✅
-2. Rewrite legacy code and add comments ✅
-3. Rewrite `algorithms/reinforce.py` ✅
-4. Rewrite `algorithms/baseline.py` ✅
-5. Implement `algorithms/a2c` ✅
-6. Add A2C to README.md ✅
-7. Add vec env support for A2C
-8. Implement PPO and SAC
-
----
-
 ## Table of Contents
 - [Algorithms Overview](#algorithms-overview)
   - [1. REINFORCE (Vanilla Policy Gradient)](#1-reinforce-vanilla-policy-gradient)
